@@ -10,8 +10,6 @@ Features:
     - Temperature (Celsius to Fahrenheit, Kelvin, etc.)
 2. Handles invalid inputs gracefully.
 3. Modular design with separate functions for each conversion type.
-
-Author: Thiago (example)
 """
 
 def convert_length():
